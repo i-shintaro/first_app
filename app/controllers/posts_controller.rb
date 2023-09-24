@@ -12,3 +12,4 @@ class PostsController < ApplicationController
   end
 end
 
+#github練習commit-2
